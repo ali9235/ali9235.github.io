@@ -1,0 +1,23 @@
+ALI MOHAMMAD AL-SHANTI
+Software · Artificial Intelligence · Connected Hardware
+
+I explore software development, artificial intelligence, and embedded systems through personal projects, one iteration at a time.
+
+PERSONAL EXPLORATIONS
+
+VOLTRA — In development
+A personal technology ecosystem exploring intelligent interfaces, digital assistance, and connected-device control.
+
+ARVEN — In development
+An AI assistant concept within VOLTRA, exploring natural and voice interaction and task organization.
+
+VOLTRA ROVER AI — Concept / prototype
+A mobile robotics concept combining camera input, sensors, and remote control.
+
+VOLTRA CONTROL CORE — Concept / prototype
+A compact ESP32-C3 controller concept with a circular touch display.
+
+All projects are personal explorations in progress.
+
+GITHUB
+https://github.com/ali9235
