@@ -1,23 +1,72 @@
 ALI MOHAMMAD AL-SHANTI
-Software · Artificial Intelligence · Connected Hardware
+Software · AI · Robotics · Embedded systems
 
-I explore software development, artificial intelligence, and embedded systems through personal projects, one iteration at a time.
+Personal projects, physical prototypes and interactive engineering studies.
 
-PERSONAL EXPLORATIONS
+ARVEN — Software · in development
+A Windows desktop assistant bringing conversation, file and image workflows, voice interaction and coding assistance into one workspace. The current focus is reliability and a simpler everyday experience.
+Current scope: Active development. Individual integrations and performance are still being validated.
+https://github.com/ali9235/voltra
+
+AVELOR ONE — Interactive simulation
+What if a water vessel made its temperature and energy state understandable? Explore a 3D design where placement, heating and battery flow respond to an inspectable engineering model.
+Current scope: A design and engineering simulation. Physical hardware and measured bottle performance remain future work.
+https://github.com/ali9235/avelor-one
+
+Mobile Robot & Gripper — Physical prototype
+From a wheeled sensing chassis to a camera-and-gripper platform: a hands-on exploration of how perception, movement and mechanical interaction can share one compact robot.
+Current scope: Autonomous navigation, AI recognition and mapping require matched source and reproducible demonstrations.
+https://github.com/ali9235/autonomous-ai-robot
+
+GuideGlass AI — Research prototype
+Environmental information, spoken instead of displayed. GuideGlass explores a camera-to-browser bridge and audio cues for assistive interaction.
+Current scope: Research prototype. Physical distance sensing and assembled glasses need validation; not a navigation or medical safety device.
+https://github.com/ali9235/GuideGlass-AI
+
+Ultrasonic Radar System — Physical prototype
+Give distance a direction. A servo-mounted ultrasonic sensor explores nearby space through angular scans and a radar-style display.
+Current scope: Uses sound, not electromagnetic radar or LiDAR. The exact demo/source match and measurement accuracy still need confirmation.
+https://github.com/ali9235/ultrasonic-radar-system
+
+VOLTRA Verdant — Physical prototype
+Plant care for the time you are away. A compact irrigation project explores soil-moisture inputs, timed watering and solar-supported power.
+Current scope: Watering and solar features are owner-reported. Pump operation, charging, calibration and unattended reliability require physical tests.
+https://github.com/ali9235/solar-powered-plant-care
 
 VOLTRA — In development
-A personal technology ecosystem exploring intelligent interfaces, digital assistance, and connected-device control.
-
-ARVEN — In development
-An AI assistant concept within VOLTRA, exploring natural and voice interaction and task organization.
+The wider project direction connecting ARVEN, engineering workflows and embedded interfaces. Its ambition is a coherent experience across software and hardware, built incrementally.
+Current scope: An evolving ecosystem. Desktop-to-mobile and hardware integration are not presented as universally complete.
+https://github.com/ali9235/voltra
 
 VOLTRA ROVER AI — Concept / prototype
-A mobile robotics concept combining camera input, sensors, and remote control.
+A mobile robotics direction exploring how cameras, sensors and remote interaction could support physical exploration.
+Current scope: This illustration is a concept, not a verified rover demonstration.
+https://github.com/ali9235
 
 VOLTRA CONTROL CORE — Concept / prototype
-A compact ESP32-C3 controller concept with a circular touch display.
-
-All projects are personal explorations in progress.
-
-GITHUB
+A compact ESP32-C3 controller concept with a circular touch display, exploring a focused physical interface for connected commands.
+Current scope: The visual and browser study do not establish a connected physical controller.
 https://github.com/ali9235
+
+VOLTRA Atlas — Physical prototype
+A coordinate matters only when it is fresh. This ESP8266, receiver and TFT project explores showing both location data and whether a reading is usable.
+Current scope: The photographed screen is waiting for a fix. Satellite acquisition and positional accuracy are not established.
+https://github.com/ali9235/esp8266-gps-display
+
+VOLTRA Echo — Physical prototype
+Bring distance information onto the device. An ESP8266 range-display experiment pairs compact sensing hardware with a readable colour screen.
+Current scope: The original photographed firmware and physical calibration remain unverified; no range or accuracy guarantee is claimed.
+https://github.com/ali9235/esp8266-distance-display
+
+VOLTRA Arcade — Physical prototype
+Physical input meets visual feedback. A joystick, ESP8266 and colour TFT form a small platform for exploring embedded game interaction.
+Current scope: The new reference is not claimed as the photographed game. Actual joystick-to-display behaviour needs a recorded test.
+https://github.com/ali9235/esp8266-joystick-display
+
+VOLTRA Thermal Lab — Hardware investigation
+Cooling begins with understanding the assembly. A fan, metal thermal structure, controller and pump/tubing build forms a practical investigation into physical integration.
+Current scope: Cooling mechanism, circulation path and measured temperature performance remain unconfirmed.
+https://github.com/ali9235/cooling-hardware-experiment
+
+Portfolio: https://ali9235.github.io/
+GitHub: https://github.com/ali9235

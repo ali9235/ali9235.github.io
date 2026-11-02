@@ -1,0 +1,70 @@
+{
+  "basis": "Public project README documentation and original portfolio; project results have not been independently retested for this page.",
+  "projects": {
+    "arven": {
+      "name": "ARVEN",
+      "repository": "https://github.com/ali9235/voltra",
+      "current_scope": "Active development. Individual integrations and performance are still being validated."
+    },
+    "avelor": {
+      "name": "AVELOR ONE",
+      "repository": "https://github.com/ali9235/avelor-one",
+      "current_scope": "A design and engineering simulation. Physical hardware and measured bottle performance remain future work."
+    },
+    "robot": {
+      "name": "Mobile Robot & Gripper",
+      "repository": "https://github.com/ali9235/autonomous-ai-robot",
+      "current_scope": "Autonomous navigation, AI recognition and mapping require matched source and reproducible demonstrations."
+    },
+    "guideglass": {
+      "name": "GuideGlass AI",
+      "repository": "https://github.com/ali9235/GuideGlass-AI",
+      "current_scope": "Research prototype. Physical distance sensing and assembled glasses need validation; not a navigation or medical safety device."
+    },
+    "radar": {
+      "name": "Ultrasonic Radar System",
+      "repository": "https://github.com/ali9235/ultrasonic-radar-system",
+      "current_scope": "Uses sound, not electromagnetic radar or LiDAR. The exact demo/source match and measurement accuracy still need confirmation."
+    },
+    "verdant": {
+      "name": "VOLTRA Verdant",
+      "repository": "https://github.com/ali9235/solar-powered-plant-care",
+      "current_scope": "Watering and solar features are owner-reported. Pump operation, charging, calibration and unattended reliability require physical tests."
+    },
+    "voltra": {
+      "name": "VOLTRA",
+      "repository": "https://github.com/ali9235/voltra",
+      "current_scope": "An evolving ecosystem. Desktop-to-mobile and hardware integration are not presented as universally complete."
+    },
+    "rover": {
+      "name": "VOLTRA ROVER AI",
+      "repository": "https://github.com/ali9235",
+      "current_scope": "This illustration is a concept, not a verified rover demonstration."
+    },
+    "core": {
+      "name": "VOLTRA CONTROL CORE",
+      "repository": "https://github.com/ali9235",
+      "current_scope": "The visual and browser study do not establish a connected physical controller."
+    },
+    "atlas": {
+      "name": "VOLTRA Atlas",
+      "repository": "https://github.com/ali9235/esp8266-gps-display",
+      "current_scope": "The photographed screen is waiting for a fix. Satellite acquisition and positional accuracy are not established."
+    },
+    "echo": {
+      "name": "VOLTRA Echo",
+      "repository": "https://github.com/ali9235/esp8266-distance-display",
+      "current_scope": "The original photographed firmware and physical calibration remain unverified; no range or accuracy guarantee is claimed."
+    },
+    "arcade": {
+      "name": "VOLTRA Arcade",
+      "repository": "https://github.com/ali9235/esp8266-joystick-display",
+      "current_scope": "The new reference is not claimed as the photographed game. Actual joystick-to-display behaviour needs a recorded test."
+    },
+    "thermal": {
+      "name": "VOLTRA Thermal Lab",
+      "repository": "https://github.com/ali9235/cooling-hardware-experiment",
+      "current_scope": "Cooling mechanism, circulation path and measured temperature performance remain unconfirmed."
+    }
+  }
+}
